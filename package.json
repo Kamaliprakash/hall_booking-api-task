@@ -1,0 +1,17 @@
+{
+  "name": "hall_booking-api-task",
+  "version": "1.0.0",
+  "description": "<h1>Hall Booking API Task</h1> <h3>Write a API for Hall Booking application</h3>",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {}
+}
